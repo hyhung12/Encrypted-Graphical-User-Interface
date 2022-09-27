@@ -1,6 +1,6 @@
-# NAME Hung Nguyen
-# EMAIL hunghn4@uci.edu
-# STUDENT ID 26441523
+**# NAME: Hung Nguyen**
+<br>**# EMAIL: hunghn4@uci.edu**
+<br>**# STUDENT ID: 26441523**
 
 Assignment 5: Encrypted Graphical User Interface
 
