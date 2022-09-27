@@ -12,6 +12,7 @@ In this assignment, I add 3 features for extra credits.
 - Existing bio in the dsu file will be displayed after loading the profile
 
 2/ Add a settings menu item and interface for username and password management.
+
 6/ Add support for editing the location of the DSU server.
 
 - These 2 features are grouped in 1 widget
