@@ -2,7 +2,7 @@
 <br>**# EMAIL: hunghn4@uci.edu**
 <br>**# STUDENT ID: 26441523**
 
-Assignment 5: Encrypted Graphical User Interface
+**Assignment 5: Encrypted Graphical User Interface**
 
 In this assignment, I add 3 features for extra credits.
 
