@@ -1,10 +1,9 @@
 **# NAME: Hung Nguyen**
 <br>**# EMAIL: hunghn4@uci.edu**
-<br>**# STUDENT ID: 26441523**
 
-**Assignment 5: Encrypted Graphical User Interface**
+**Encrypted Graphical User Interface**
 
-In this assignment, I add 3 features for extra credits.
+- Three features have been updated.
 
 4/ Add a bio menu item and interface for editing the user bio
 
