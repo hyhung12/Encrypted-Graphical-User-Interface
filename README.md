@@ -3,7 +3,7 @@
 
 **Encrypted Graphical User Interface**
 
-- Three features have been updated.
+Three features have been updated.
 
 4/ Add a bio menu item and interface for editing the user bio
 
